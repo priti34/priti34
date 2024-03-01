@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @priti34
+- 👋 Hi, I am Priti Raj.
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on ...
