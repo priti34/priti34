@@ -1,4 +1,4 @@
-![logo](https://knackforge.com/wp-content/uploads/2022/11/Benefits-of-ReactJS.jpg)
+![logo](https://kinsta.com/wp-content/uploads/2022/06/what-is-react-js-feature-image-1024x512.png)
 <h1 align="center">Hi 👋, I'm Priti Raj</h1>
 <h3 align="center">A web developer from India</h3>
 
