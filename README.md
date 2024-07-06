@@ -1,8 +1,8 @@
-- 👋 Hi, I am Priti Raj.
+<!--- 👋 Hi, I am Priti Raj.
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : pritiraj0706@gmail.com
+- 📫 How to reach me : pritiraj0706@gmail.com --->
 
 <!---
 priti34/priti34 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
