@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://knackforge.com/wp-content/uploads/2022/11/Benefits-of-ReactJS.jpg)
 <h1 align="center">Hi 👋, I'm Priti Raj</h1>
 <h3 align="center">A web developer from India</h3>
 
